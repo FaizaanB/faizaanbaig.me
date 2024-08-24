@@ -3,26 +3,26 @@ layout: default
 ---
 
 
-[Resume](resume.pdf) | [Email](mailto:me@faisalbaig.com) | [LinkedIn](https://www.linkedin.com/in/baig-faisal/) | [Github](https://faisab.github.io/)
+[Resume](resume.pdf) | [Email](mailto:baig.faizaan@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baigfaizaan/) | [Github](https://github.com/)
 
 
 
 ### About me
 
-I'm a MSCS student at Georgia Tech interested in building intelligent systems and driven by the potential of AI to solve complex challenges. 
+Undergraduate student studying Computer Science at Georgia Tech, specializing in Information Networks and Artificial Intelligence, with interests in machine learning, quantitative finance, and software engineering. Interested in learning new technologies/skills and devising better problem‑solving methods for challenging tasks. 
 
 ### Experience
 
-- AI Engineer Intern @ BCG
-- Platform Engineer Intern @ CertiK
-- Software Engineer Intern @ Equifax
+- Software Development Engineer Intern @ Amazon
+- Software Engineer Intern @ Institute of Nuclear Power Operations
+- Teaching Assistant @ Georgia Institute of Technology
 
 ### Education
 
-- M.S. CS @ Georgia Tech '24
-- B.S. CS @ Georgia Tech '23
+- M.S. CS @ Georgia Tech '26
+- B.S. CS @ Georgia Tech '25
 
-<!-- Through interning at Boston Consulting Group, CertiK, and Equifax, I've gained a a diverse set of professional experiences. My academic ventures as a Graduate Assistant and researcher under Dr. Ali Adibi where I worked to improve visual diagnostics using machine learning. -->
+<!-- Expected to graduate Bachelor's in '25 and Master's in '26 -->
 
 
 <!-- 
