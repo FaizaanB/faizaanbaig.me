@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Resume](https://drive.google.com/file/d/1Q1YNGJ9JGlGTDPdKB7jacGO1ByFhXwrf/view) | [Email](mailto:baig.faizaan@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baigfaizaan/) | [Github](https://github.com/)
+[Resume](resume.pdf) | [Email](mailto:baig.faizaan@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baigfaizaan/) | [Github](https://github.com/)
 
 
 ### About me
