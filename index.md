@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Resume]() | [Email](mailto:baig.faizaan@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baigfaizaan/) | [Github](https://github.com/)
+[Resume](https://www.linkedin.com/in/baigfaizaan/) | [Email](mailto:baig.faizaan@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baigfaizaan/) | [Github](https://github.com/)
 
 
 ### About me
