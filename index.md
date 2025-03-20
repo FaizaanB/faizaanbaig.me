@@ -12,16 +12,16 @@ Undergraduate student studying Computer Science at Georgia Tech, specializing in
 
 ### Experience
 
+- Starlink Software Engineer Intern @ SpaceX
 - Software Development Engineer Intern @ Amazon
 - Software Engineer Intern @ Institute of Nuclear Power Operations
 - Teaching Assistant @ Georgia Institute of Technology
 
 ### Education
 
-- M.S. CS @ Georgia Tech '26
 - B.S. CS @ Georgia Tech '25
 
-<!-- Expected to graduate Bachelor's in '25 and Master's in '26 -->
+<!-- Expected to graduate Bachelor's in '25 -->
 
 
 <!-- 
